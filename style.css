@@ -1,0 +1,42 @@
+#MinhaFoto{
+    border-radius: 200px;
+    width: 300px;
+}
+#instasimbolo{
+    position: relative;
+    width: 60px;
+    bottom: 400px;
+    left: 1300px; 
+    border-radius: 100px;
+    
+}
+#facesimbolo{
+    position: relative;
+    width: 60px;
+    bottom: 400px;
+    left: 1285px;
+    border-radius: 10px;
+
+}
+#Linkesimbolo{
+    position: relative;
+    width: 40px;
+    bottom: 410px;
+    left: 1300px;
+    border-radius: 30px;
+
+}
+h1{
+    background-color: #6C7A6E;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    position: relative;
+    top: -35px;
+
+
+
+    
+body{
+    background-color: #0ee22e;
+}
