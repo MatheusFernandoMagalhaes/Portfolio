@@ -1,28 +1,30 @@
 #MinhaFoto{
     border-radius: 200px;
     width: 300px;
-}
-#instasimbolo{
     position: relative;
-    width: 60px;
-    bottom: 400px;
-    left: 1300px; 
+    left: 1100px;
+}
+#gitsimbolo{
+    position: relative;
+    width: 50px;
+    bottom: 590px;
+    left: 1700px; 
     border-radius: 100px;
     
 }
-#facesimbolo{
+#trybesimbolo{
     position: relative;
-    width: 60px;
-    bottom: 400px;
-    left: 1285px;
-    border-radius: 10px;
+    width: 50px;
+    bottom: 590px;
+    left: 1700px;
+    border-radius: 20px;
 
 }
 #Linkesimbolo{
     position: relative;
-    width: 40px;
-    bottom: 410px;
-    left: 1300px;
+    width: 50px;
+    bottom: 590px;
+    left: 1700px;
     border-radius: 30px;
 
 }
@@ -33,10 +35,16 @@ h1{
     font-size: 50px;
     position: relative;
     top: -35px;
-
-
-
-    
+}
+p{
+font-weight: 600;
+text-align: center;
+font-size: 0.8cm;
+}
 body{
-    background-color: #0ee22e;
+    background-color:#254441;
+}
+ul{
+    text-align: center;
+    font-size: 30px;
 }
